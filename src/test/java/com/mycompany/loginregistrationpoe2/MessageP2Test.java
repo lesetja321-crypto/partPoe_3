@@ -62,10 +62,7 @@ public class MessageP2Test {
         }
     }
 
-    // -----------------------------------------------------------------------
-    // 2. Recipient Number Validation
-    // -----------------------------------------------------------------------
-
+    
     /**
      * SUCCESS: recipient starts with +27 followed by exactly 9 digits.
      * Expected return: "Cell phone number successfully captured."

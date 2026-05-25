@@ -126,7 +126,7 @@ public class LoginRegistrationPoe2 {
                 }
                 
             } while (!recipient.matches("^\\+27\\d{9}$")); //Ref https://www.w3schools.com/java/java_ref_arrays.asp                                         
-            // REF : https://www.w3schools.com/java/java_while_loop.asp
+                                                                                // REF : https://www.w3schools.com/java/java_while_loop.asp
 
             //This tell the user that they messageText must not exceed 250 messages
             String messageText;
